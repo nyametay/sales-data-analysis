@@ -27,7 +27,7 @@ It uses **Pandas**, **Matplotlib**, and **Seaborn** to manipulate data and gener
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/sales-data-analysis.git
+git clone https://github.com/nyametay/sales-data-analysis.git
 cd sales-data-analysis
 ```
 ## 🧰 Requirements
